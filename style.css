@@ -1,0 +1,19 @@
+body{
+    color: black;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+header {
+    text-align: center;
+    background-color: white;
+    margin: 4px;
+    padding: 4px;
+    box-shadow: 4px;
+}
+nav{
+    background-color: #0078d7; /* Color de fondo */
+    padding: 1rem 0; /* Espaciado interior */
+    box-shadow: 0 4px 8px rgba(35, 6, 106, 0.1); 
+}
